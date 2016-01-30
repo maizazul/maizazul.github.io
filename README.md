@@ -15,6 +15,8 @@ Danny Pineda dcorn13@gmail.com
 ## Technologies Used
 HTML and CSS
 
+
+### License
 The MIT License (MIT)
 
 Copyright (c) [2016] [Danny Pineda]
