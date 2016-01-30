@@ -1,7 +1,7 @@
 # maizazul.github.io
-#### _{HTML page for portfolio}, {1/29/2016_
+#### _HTML page for portfolio, 1/29/2016_
 
-#### By _**{Danny Pineda}**_
+#### By _**Danny Pineda**_
 
 ## Description
 A HTML webpage that uses CSS and a Grayscale Bootstrap template
